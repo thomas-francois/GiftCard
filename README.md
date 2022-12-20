@@ -4,7 +4,7 @@ Guide d'utilisation et de consultation de l'application Wordrpress
 ### Prérequis:
 Installer docker-compose:
 https://docs.docker.com/compose/install/
-Verifier que l'application Docker est lancée
+<br>Verifier que l'application Docker est lancée
 
 
 ### Installation:
@@ -12,7 +12,7 @@ Verifier que l'application Docker est lancée
 - Ouvrir le terminal
 - Naviguer avec le terminal jusqu'à l'emplacement du dossier et entrer dedans (avec la commande cd emplacement/nomdDuDossier)
 - Exécuter dans le terminal la commande: docker-compose up
-- Attendre l'initialisation et l'installation complète du système
+- Attendre l'initialisation et l'installation complète du système<br>
   (les deux images doivent être en cours d'éxecution de sur l'aplication Docker)
 - Ouvrir votre naviguiateur et rechercher : http://localhost/wp-admin/
 - Se connecter à Wordpress avec les identifiants admin / admin

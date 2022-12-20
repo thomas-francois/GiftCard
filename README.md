@@ -21,3 +21,5 @@ https://docs.docker.com/compose/install/
 ### Utilisation:
 Vous avez maintenant accès au site GiftCard, vous pouvez accèdez aux deux articles customisés.
 Vous pouvez aussi modifier et rajouter d'autres articles grâce à l'interface de Wordpress.
+<br><br>
+Pour quitter l'application, appuyer sur Ctrl+C dans le terminal puis executer la commande: docker-compose down

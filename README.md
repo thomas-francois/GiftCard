@@ -9,6 +9,8 @@ https://docs.docker.com/compose/install/
 
 ### Installation:
 - Télecharger et décompresser le dossier ZIP de Github
+![SCR-20230107-dx9](https://user-images.githubusercontent.com/103375765/211143320-9227861d-344c-4557-9198-24536dff837a.png)
+
 - Ouvrir le terminal
 - Naviguer avec le terminal jusqu'à l'emplacement du dossier et entrer dedans (avec la commande cd emplacement/nomdDuDossier)
 - Exécuter dans le terminal la commande: docker-compose up
